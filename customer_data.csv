@@ -1,0 +1,11 @@
+﻿Customer_ID,Age,Gender,Annual_Income,Spending_Score
+C001,25,Male,30000,60
+C002,40,Female,60000,40
+C003,35,Male,80000,80
+C004,23,Female,20000,70
+C005,52,Male,90000,20
+C006,30,Female,75000,85
+C007,28,Male,40000,50
+C008,45,Female,65000,30
+C009,33,Male,70000,75
+C010,27,Female,50000,65
